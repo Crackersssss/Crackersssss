@@ -2,6 +2,10 @@
 
 I'm Cracker ! :sunglasses:
 
+[![LIQQKJ.jpg](https://s1.ax1x.com/2022/04/25/LIQQKJ.jpg)](https://imgtu.com/i/LIQQKJ)
+
+Here is my GitHub
+
 ![Cracker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crackersssss)
 
 I love Java and am currently learning Go and Rust
