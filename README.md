@@ -2,7 +2,7 @@
 
 I'm Cracker ! :sunglasses:
 
-[<img src="https://s1.ax1x.com/2022/04/25/LIQQKJ.jpg" alt="LIQQKJ.jpg" style="zoom: 67%;" />](https://imgtu.com/i/LIQQKJ)
+<img src="https://s1.ax1x.com/2022/04/25/LIQQKJ.jpg" alt="LIQQKJ.jpg" style="zoom: 50%;" />
 
 Here is my GitHub
 
