@@ -2,7 +2,7 @@
 
 I'm Cracker ! :sunglasses:
 
-<img src="https://s1.ax1x.com/2022/04/25/LIQQKJ.jpg" alt="LIQQKJ.jpg" width="60%" />
+<img src="https://s1.ax1x.com/2022/04/25/LIQQKJ.jpg" alt="LIQQKJ.jpg" align="center" width="60%" />
 
 Here is my GitHub
 
