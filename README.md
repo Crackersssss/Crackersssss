@@ -2,7 +2,7 @@
 
 I'm Cracker ! :sunglasses:
 
-[![LIQQKJ.jpg](https://s1.ax1x.com/2022/04/25/LIQQKJ.jpg)](https://imgtu.com/i/LIQQKJ)
+[<img src="https://s1.ax1x.com/2022/04/25/LIQQKJ.jpg" alt="LIQQKJ.jpg" style="zoom: 67%;" />](https://imgtu.com/i/LIQQKJ)
 
 Here is my GitHub
 
@@ -14,5 +14,5 @@ I love Java and am currently learning Go and Rust
 
 Feel free to contact me :yum:
 
-[<img src="https://img.shields.io/badge/email-tang.jielong%40qq.com-blue">](mailto:tang.jielong@qq.com)
+[<img src="https://img.shields.io/badge/email-2278801557%40qq.com-blue">](mailto:2278801557@qq.com)
 
